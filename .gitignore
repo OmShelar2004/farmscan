@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.expo/
+dist/
+
+# Python
+venv/
+backend/venv/
+backend/dataset/
+__pycache__/
+*.pyc
+
+# ML Models
+*.h5
+
+# Videos
+*.MOV
+*.mp4
+
+# macOS
+.DS_Store
